@@ -10,10 +10,8 @@ An interactive **Segment Tree** visualizer built with **Python** and **Streamlit
 
 ```bash
 pip install -r requirements.txt
-streamlit run segment_tree_app.py
+streamlit run app.py
 ```
-
-No frontend knowledge needed — runs fully in Python on localhost!
 
 ---
 
